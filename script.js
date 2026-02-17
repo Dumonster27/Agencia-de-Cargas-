@@ -1,5 +1,5 @@
 function enviarWhatsApp() {
-    const meuNumero = "5514981264900"; 
+    const meuNumero = "5514981457617"; 
     
     // Captura os valores
     const nome = document.getElementById('nome').value;
@@ -28,3 +28,4 @@ function enviarWhatsApp() {
     
     window.open(url, '_blank');
 }
+
